@@ -1,6 +1,6 @@
 # Uhpenry Docs Repository
 
-Welcome to the **Uhpenry Documentation Repository**! 🚀
+Welcome to the **Uhpenry Documentation Repository**!
 
 This repository contains the **official documentation** for the Uhpenry platform. It’s open-source and designed for **developers, contributors, and users** to explore, learn, and contribute content that helps the Uhpenry community.
 
